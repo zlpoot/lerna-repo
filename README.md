@@ -1,0 +1,2 @@
+# lerna-repo
+study lerna
