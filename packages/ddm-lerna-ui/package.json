@@ -1,6 +1,6 @@
 {
   "name": "ddm-lerna-ui",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ddm-lerna-core": "^1.0.0"
+    "ddm-lerna-core": "^0.0.1"
   }
 }
