@@ -4,6 +4,6 @@ export class UiDebug {
   debug = new Debug();
 
   printDebug() {
-    this.debug.print("aaaa");
+    this.debug.print("aaaa1");
   }
 }
